@@ -15,7 +15,7 @@ on:
         type: string
       event_type:
         description: "Name of the event that triggers the repository_dispatch. Useful for selectively running dispatched workflows."
-        default: "trigger-workflow"
+        default: "trigger_workflow"
         required: false
         type: string
 
