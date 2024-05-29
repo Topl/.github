@@ -1,4 +1,4 @@
-name: Apparatus Docs Deploy Trigger
+name: Apparatus Repo Workflow Trigger
 
 on:
   workflow_dispatch:
